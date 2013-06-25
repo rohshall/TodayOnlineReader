@@ -1,4 +1,4 @@
-BBCReader
-=========
+TodayOnlineReader
+=================
 
-Android app for BBC news
+Android app for todayonline news
